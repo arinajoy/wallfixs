@@ -1,12 +1,8 @@
 [
   {
-    "id": "1",
-    "title": "Cyber City",
-    "url": "https://raw.githubusercontent.com/arinajoy/wallvixs/main/wallpapers/cyber.jpg"
+    "image": "https://raw.githubusercontent.com/arinajoy/wallvixs/main/images/1.jpg"
   },
   {
-    "id": "2",
-    "title": "Mountain",
-    "url": "https://raw.githubusercontent.com/arinajoy/wallvixs/main/wallpapers/mountain.jpg"
+    "image": "https://raw.githubusercontent.com/arinajoy/wallvixs/main/images/2.jpg"
   }
 ]
